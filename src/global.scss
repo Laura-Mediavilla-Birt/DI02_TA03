@@ -35,3 +35,12 @@
 /* @import "@ionic/angular/css/palettes/dark.always.css"; */
 /* @import "@ionic/angular/css/palettes/dark.class.css"; */
 @import '@ionic/angular/css/palettes/dark.system.css';
+
+/* Modal para añadir un restaurante */
+.modal-restaurante {
+  --width: 500px;
+  --max-width: 90%;
+  --height: 520px;
+  --max-height: 90%;
+  --border-radius: 8px;
+}
